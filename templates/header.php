@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maxmum-scale=1, user-scalable=no">
     <meta name="description" content="Um boot que ira moderar e deixar sua comunidade segura de um jeirto facil">
+    <link rel="short icon" href="img/icon.png"/>
     <!--CSS-->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!--Bootstrap-->
@@ -14,10 +15,10 @@
     <!--Google fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Sarala&display=swap" rel="stylesheet">
-    <title>Balle Bot - Modere sua comunidade do Discord</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Montserrat&display=swap" rel="stylesheet">
+    <title>G-Team - Faça parte desse time</title>
 </head>
 <body>
