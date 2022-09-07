@@ -24,9 +24,9 @@
         
         <section class="content2">
             <h3 class="content2-title">Venha ser um campeão você também!</h3>
-            <p class="content2-subtitle">Cria um <b>sistema de verificação</b> capcha para novos membros garatirem que não são robôs.</p>
-            <p class="content2-subtitle">Possui um <b>sistema de banimento</b> automático para links suspeitos que forem enviados na comunidade.</p>
-            <p class="content2-subtitle"><b>Sistema de avisos e banimento manual</b>, para pessoas administradoras utilizarem</p>
+            <p class="content2-subtitle">Treine com <b>A maior estrutura</b> para atender os atleta do mercado.</p>
+            <p class="content2-subtitle">Precisamos de talentos<b> como o seu</b> para chegar aos patamares mais altos.</p>
+            <p class="content2-subtitle">Faça o teste agora, <b>as vagas são por tempo limitado</b>, iai vai perder?</p>
         </section>
     </main>
 

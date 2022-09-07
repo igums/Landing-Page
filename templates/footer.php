@@ -15,7 +15,7 @@
             </ul>
         </div>
         <div class="inf-footer">
-        <p>&copy; Balle Bot</p>
+        <p>&copy; G-Team</p>
         <p>Todos os direitos reservados</p>
         </div>
     </footer>
