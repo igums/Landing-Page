@@ -1,16 +1,16 @@
-/* zerando a foratação padrão das paginas */
+/* zerando a formatação padrão das paginas */
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
     text-decoration: none;
-    color: white;
+    color: #ffffff;
 }
 
 /* css do background geral */
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #2f2325 16.6%, #8E5D52 85.61%);
+    background: linear-gradient(68.15deg, #000b26 16.6%, #011b59 85.61%);
 }
 
 
@@ -19,6 +19,8 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    background-color: #195b79;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, .25);
 
 }
 
@@ -27,20 +29,25 @@ body{
     height: 50px;
 }
 
+.logo-img2{
+  width: 400px;
+  height: 400px;
+}
+
 .nav-bar{
     display: flex;
     gap: 32px;
 }
 
 .nav-bar-item{
-    font-family: 'Sarala', sans-serif;
-    color: #fff2e7;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #ffffff;
     font-weight: 400;
     font-size: 18px;
 }
 
 .main-content{
-    border-top:  0.4px solid #FFF2E7;
+    border-top:  0.4px solid #ffffff;
     margin-bottom: 48px;
 }
 
@@ -59,38 +66,38 @@ body{
 }
 
 .content1-title{
-    font-family: 'Righteous', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400px;
     font-size: 64px;
-    color: #FFF2E7;
+    color: #ffffff;
 }
 
 .content1-subtitle{
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-weight: 400px;
     font-size: 24px;
-    color: #ecd6c4;
+    color: #ffffff;
 }
 
 .card-btn{
-    color: #2f2325;
-    background-color: #ECD6C4;
-    border: 2px solid #ECD6C4;
+    color: #ffffff;
+    background-color: #3fffff;
+    border: 2px solid #3fffff;
     width: 100%;
     transition: .5s;
     width: 180px;
     height: 67px;
     border-radius: 20px;
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-weight: 400px;
     font-size: 24px;
 }
 
 .card-btn:hover {
     background-color: transparent;
-    color: #ECD6C4;
-    border-color: #ECD6C4;
+    color: #3fffff;
+    border-color: #3fffff;
   }
 
   .content2{
@@ -104,16 +111,16 @@ body{
   .content2-title{
     border-top:  0.4px solid #fff2ef;
     padding-top: 48px;
-    font-family: 'Righteous', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400px;
     margin-bottom: 16px;
   }
 
   .content2-subtitle{
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
     font-weight: 300px;
     font-size: 18px;
-    color: #ECD6C4;
+    color: #ffffff;
   }
 
   .inf-footer{
@@ -155,7 +162,7 @@ body{
   
   #social-container a,
   #footer-links-container a {
-    color: #FFF;
+    color: #ffffff;
     transition: .5s;
   }
   
